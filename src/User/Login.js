@@ -1,40 +1,52 @@
 import React from 'react';
 // import Logo from "../../public/image/logo.png"
+import { FaUserAlt, FaLock } from "react-icons/fa";
+import { InputGroup, InputGroupText, InputGroupAddon, Input } from 'reactstrap';
 
 const Login = () => {
   return (
     <div>
         <div className='main'>
             {/* <img src={Logo} href='' alt=''/> */}
-            <h4 className='text-center my-5'>PluseERP</h4>
+            <h4 className='text-center my-5'>PluseErp</h4>
         <form className='px-5 mx-auto form py-4'>
   <fieldset disabled>
     <legend className='my-5'>Log In to your account.</legend>
     <div className="my-4">
       {/* <label for="disabledTextInput" className="form-label mt-4">Disabled input</label> */}
-      <input type="text" id="disabledTextInput" className="form-control" placeholder="Email"/>
+      <InputGroup>
+    <InputGroupText>
+      <FaUserAlt/>
+    </InputGroupText>
+    
+    <Input type="text" id="disabledTextInput" className="form-control" placeholder="username" />
+  </InputGroup>
+     
     </div>
     <div className="mb-4">
-      {/* <label for="disabledSelect" className="form-label">Disabled select menu</label> */}
-      <input type="text" id="disabledTextInput" className="form-control" placeholder="Password"/>
-
+    <InputGroup>
+    <InputGroupText>
+      <FaLock/>
+    </InputGroupText>
+    <Input type="text" id="disabledTextInput" className="form-control" placeholder="Password" />
+  </InputGroup>
       
     </div>
     <div className="mb-3">
       <div className="form-check">
         <input className="form-check-input" type="checkbox" id="disabledFieldsetCheck" disabled/>
-        <label className="form-check-label" for="disabledFieldsetCheck">
-          Keep me logged in
+        <label className="form-check-label d-flex justify-content-around" for="disabledFieldsetCheck">
+          <p>Keep me logged in</p><a href='/forgot' className=''>Forgot passsword</a>
         </label>
       </div>
     </div>
     <button type="submit" className="btn btn-primary w-100">Submit</button>
-    <p className='mt-5'>No Account yet? <a href=''>SignUp</a></p>
+    <p className='mt-5'>No Account yet? <a href='/logout'>SignUp</a></p>
   </fieldset>
 </form>
 <div  className='text-center my-5'>
-<p><small>Contact us:<a src="" href=''> support@PluseERP.com</a></small></p>
-<p><small className='text-center'>This site is protected by reCAPTCHA and the Google<br/>
+<p><small>Contact us:<a src="" href=''> info@cdcommrece.de</a></small></p>
+<p><small className='text-center'>All copyrights@cd-commerce<br/>
 <a href=''>Privacy Policy</a> and <a href=''>Terms of Service</a> apply.</small></p>
 </div>
         </div>
