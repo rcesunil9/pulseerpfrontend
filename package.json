@@ -26,10 +26,10 @@
       "react-app",
       "react-app/jest"
     ]
-  },
+  },        
   "browserslist": {
     "production": [
-      ">0.2%",
+      ">0.2%  ",
       "not dead",
       "not op_mini all"
     ],

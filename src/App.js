@@ -3,7 +3,8 @@ import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import Login from './User/Login';
 import Signup from './User/Signup';
-import Forgotpage from "./User/Forgotpassword"
+import Forgotpage from "./User/Forgotpassword";
+import Dashboard from "./Dashbord/Dashbord"
 import {
   Routes,
   Switch,
@@ -18,8 +19,10 @@ function App() {
       
     <Routes>
       <Route path="/" exact element={<Login/>}/>
-      <Route path="/logout" exact element={<Signup/>} />
+      <Route path="/signup" exact element={<Signup/>} />
       <Route path="/forgot" element={<Forgotpage />} />
+      <Route path="/dashboard" element={<Dashboard />} />
+
     </Routes>
   
      {/* <Signup/> */}
