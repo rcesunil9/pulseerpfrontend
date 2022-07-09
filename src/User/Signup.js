@@ -24,6 +24,7 @@ const Login = () => {
     <InputGroupText>
       <FaUserAlt/>
     </InputGroupText>
+    
     <Input type="Email"
               name="Email"
               id="E-mail"
