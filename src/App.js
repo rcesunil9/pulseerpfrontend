@@ -4,7 +4,8 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import Login from './User/Login';
 import Signup from './User/Signup';
 import Forgotpage from "./User/Forgotpassword";
-import Dashboard from "./Dashbord/Dashbord"
+import Dashboard from "./Dashbord/Dashbord";
+import RecorderDashboard from './Dashbord/RecorderDashboard';
 import {
   Routes,
   Switch,
@@ -21,7 +22,13 @@ function App() {
       <Route path="/" exact element={<Login/>}/>
       <Route path="/signup" exact element={<Signup/>} />
       <Route path="/forgot" element={<Forgotpage />} />
+
+
+      
       <Route path="/dashboard" element={<Dashboard />} />
+      <Route path="/dashboard/recorderdashboard" element={<RecorderDashboard />} />
+
+      
 
     </Routes>
   
