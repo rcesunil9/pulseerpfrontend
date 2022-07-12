@@ -1,5 +1,5 @@
 import React from 'react'
-const RecorderDashboard = () => {
+ const Table = () => {
   return (
     <div> 
         <table class="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
@@ -15,10 +15,9 @@ const RecorderDashboard = () => {
         <th scope="col">Total stock range in days</th>
         <th scope="col">Minimum Stock Range in days</th>
         <th scope="col">Main supplier</th>
-        <th scope="col">Supplier Lead Time in days</th><br></br>
+        <th scope="col">Supplier Lead Time in days</th>
         <th scope="col">Reorder Quantity</th>
         <th scope="col">Expected OOS in days</th>
-  
       </tr>
     </thead>
     <tbody>
@@ -27,32 +26,32 @@ const RecorderDashboard = () => {
         <td>Mark</td>
         <td>Otto</td>
         <td>@mdo</td>
-        <td>@mdo</td>
-        <td>@mdo</td>
-        <td>@mdo</td>
-        <td>@mdo</td>
       </tr>
       <tr>
-
         <th scope="row">2</th>
-        <td>Sunil</td>
-        <td>kumar</td>
-        <td>Pd</td>
+        <td>Jacob</td>
+        <td>Thornton</td>
         <td>@fat</td>
 
-        <td>@fat</td>
       </tr>
+
       <tr>
+
         <th scope="row">3</th>
+
         <td colspan="2">Larry the Bird</td>
-        <td>@twitter</td>
+
         <td>@twitter</td>
 
       </tr>
+
     </tbody>
+
   </table>
+
   </div>
+  
   )
 }
 
-export default RecorderDashboard
+export default Table

@@ -5,7 +5,10 @@ import Login from './User/Login';
 import Signup from './User/Signup';
 import Forgotpage from "./User/Forgotpassword";
 import Dashboard from "./Dashbord/Dashbord";
-import RecorderDashboard from './Dashbord/RecorderDashboard';
+import FbaDashboard from "./Dashbord/FbaStock/FbaDadhboard"
+import CoreDataDashboard from "./Dashbord/CoreData/CoreDataDashboard"
+import CoreDataSupplier from './Dashbord/CoreDataSupplier/CoreDataSuplierDashboard';
+import RecorderDashboard from './Dashbord/RecorderDashboard/RecorderDashboard';
 import {
   Routes,
   Switch,
@@ -26,7 +29,10 @@ function App() {
 
       
       <Route path="/dashboard" element={<Dashboard />} />
-      <Route path="/dashboard/recorderdashboard" element={<RecorderDashboard />} />
+      <Route path="/dashboard/fbadashboard" element={<FbaDashboard />} />
+      <Route path="/dashboard/coredatadashboard" element={<CoreDataDashboard />} />
+      <Route path="/dashboard/coredatasupplier" element={<CoreDataSupplier />} />
+      <Route path="/dashboard/RecorderDashboard" element={<RecorderDashboard />} />
 
       
 

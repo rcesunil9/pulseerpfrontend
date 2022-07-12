@@ -1,11 +1,12 @@
 import React from 'react'
+
 import Navbar from '../navbar/Navbar';
 import Sidebar from '../sidebar/sidebar';
 import StockDashboard from './StockDashboard';
-import FBAStockDashboard from "./FBAStockDashboard"
-import CoreDataDashboard from './CoreDataDashboard';
-import CoreDataSuplierDashboard from './CoreDataSuplierDashboard';
-import RecorderDashboard from './RecorderDashboard';
+// import FBAStockDashboard from "./FbaStock/FBAStockDashboard"
+// import CoreDataDashboard from './CoreDataDashboard';
+// import CoreDataSuplierDashboard from './CoreDataSuplierDashboard';
+// import RecorderDashboard from './RecorderDashboard';
 
 
 const Dashbord = () => {
@@ -15,13 +16,13 @@ const Dashbord = () => {
         <div className='d-flex justify-content-center'>
           
        <Sidebar/>
+    
       
-      {/* <StockDashboard/>  */}
+      <StockDashboard/> 
       {/* <FBAStockDashboard/> */}
       {/* <CoreDataDashboard/> */}
       {/* <CoreDataSuplierDashboard/> */}
-
-      <RecorderDashboard/>
+      {/* <RecorderDashboard/> */}
 
       </div>
     

@@ -52,7 +52,7 @@ const Login = () => {
 </form>
 <div  className='text-center my-5'>
 <p><small>Contact us:<a src="" href=''> info@cdcommrece.de</a></small></p>
-<p><small className='text-center'>All copyrights@cd-commerce<br/>
+<p><small className='t ext-center'>All copyrights@cd-commerce<br/>
 <a href=''>Privacy Policy</a> and <a href=''>Terms of Service</a> apply.</small></p>
 </div>
         </div>

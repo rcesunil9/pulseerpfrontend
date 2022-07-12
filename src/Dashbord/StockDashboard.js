@@ -65,7 +65,9 @@ const StockDashboard = () => {
       <td>Thornton</td>
       
       <td>@fat</td>
+      
     </tr>
+    
     <tr>
       <th scope="row">3</th>
 

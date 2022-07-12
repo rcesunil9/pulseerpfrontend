@@ -14,7 +14,7 @@ const sidebar = () => {
             
             <li class="active">
 
-                <a href="/FBAStockDashboard" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Compoments</a>
+                <a href="/dashboard" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Compoments</a>
                 
                 {/* <ul class="collapse list-unstyled" id="homeSubmenu">
                     <li>
@@ -29,10 +29,10 @@ const sidebar = () => {
                 </ul> */}
             </li>
             <li>
-                <a href="#">Products</a>
+                <a href="/dashboard/fbadashboard">Products</a>
             </li>
             <li>
-                <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Third Tab</a>
+                <a href="/dashboard/coredatadashboard" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Third Tab</a>
                 {/* <ul class="collapse list-unstyled" id="pageSubmenu">
                     <li>
                         <a href="#">Page 1</a>
@@ -46,10 +46,11 @@ const sidebar = () => {
                 </ul> */}
             </li>
                <li>
-                <a href="#">Forth Tab</a>
+                <a href="/dashboard/coredatasupplier">Forth Tab</a>
             </li>
               <li>
-              <a herf="#">Five Tab</a>
+              <a href="/dashboard/RecorderDashboard">fifth Tab</a>
+
                </li>
               <li> <a herf="#"> Six Tab </a>
               </li>
