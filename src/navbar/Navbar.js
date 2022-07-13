@@ -13,28 +13,17 @@ const Navbar = () => {
     </div>
   </nav>
   <div className='d-flex justify-content-end '>
-
-             <button className='btn btn-primary'>Add Product</button> 
-
-    <button className='btn-success'>Search roduct</button>
-
-    <button className='btn btn-primary'>Search Product</button>
-
-    <button className='btn btn-primary'>Sort product</button>
-
-    <button className='btn btn-primary'>Sort product</button>
-
-    <button className='btn btn-primary'>Sort product</button>
-
-    <button className='btn btn-primary'>Sort product</button>
-
-    <button className='btn btn-primary'>Sort product</button>
-    
-    <button className='btn btn-primary'>Sort product</button>
-    
+    <div className='row'>
+      <div className='col-lg-4 col-md-3 col-sm-3 col-3' >
+      <button className='btn btn-primary py-0 px-2 mx-2'>Submit</button> 
+      </div>
+      <div className='col-lg-4 col-md-3 col-sm-3 col-3' >
+      <button className='btn btn-primary py-0 px-2 mx-2'>Submit</button>
+      </div>
+      
     </div>
-
-  </div>
+    </div>
+    </div>
   )
 }
 

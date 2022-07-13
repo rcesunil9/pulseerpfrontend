@@ -13,7 +13,7 @@ const Dashbord = () => {
   return (
     <div>
         <Navbar/>
-        <div className='d-flex justify-content-center'>
+        <div className='d-flex justify-content-center dashboard'>
           
        <Sidebar/>
     

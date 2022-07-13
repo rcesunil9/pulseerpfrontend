@@ -42,7 +42,6 @@ import React from 'react'
         <td colspan="2">Larry the Bird</td>
 
         <td>@twitter</td>
-        
         <td>@twitter</td>
 
 

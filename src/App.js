@@ -9,6 +9,15 @@ import FbaDashboard from "./Dashbord/FbaStock/FbaDadhboard"
 import CoreDataDashboard from "./Dashbord/CoreData/CoreDataDashboard"
 import CoreDataSupplier from './Dashbord/CoreDataSupplier/CoreDataSuplierDashboard';
 import RecorderDashboard from './Dashbord/RecorderDashboard/RecorderDashboard';
+import SalesPricing from './Dashbord/SalesPricing/SalesPricingDashboard';
+import SpCoredata from './Dashbord/SP-CoreData/SP-CoreDataDashboard';
+import SpSpaCoreData from './Dashbord/SP-FBA-CoreData/SP-CoreDataDashboard';
+import SPanalytics from './Dashbord/SP-Analytics/SP-Analytics';
+import PurchasePrice from "./Dashbord/Purchase-price/PurchasePrice"
+import StockPuchase from "./Dashbord/StockPuchase/StockPuchase"
+import UTS_JTL from "./Dashbord/StockPuchase/StockPuchase"
+
+
 import {
   Routes,
   Switch,
@@ -33,6 +42,13 @@ function App() {
       <Route path="/dashboard/coredatadashboard" element={<CoreDataDashboard />} />
       <Route path="/dashboard/coredatasupplier" element={<CoreDataSupplier />} />
       <Route path="/dashboard/RecorderDashboard" element={<RecorderDashboard />} />
+      <Route path="/dashboard/salespricing" element={<SalesPricing />} />
+      <Route path="/dashboard/spcoredata" element={<SpCoredata />} />
+      <Route path="/dashboard/spspacoredata" element={<SpSpaCoreData />} />
+      <Route path="/dashboard/spanalytics" element={<SPanalytics />} />
+      <Route path="/dashboard/purchaseprice" element={<PurchasePrice />} />
+      <Route path="/dashboard/StockPuchase" element={<StockPuchase />} />
+      <Route path="/dashboard/UTS_JTL" element={<UTS_JTL />} />
 
       
 

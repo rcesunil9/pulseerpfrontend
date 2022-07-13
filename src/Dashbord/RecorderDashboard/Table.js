@@ -2,7 +2,7 @@ import React from 'react';
 const RecorderDashboard = () => {
   return (
     <div> 
-        <table class="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
+        <table class="table dashboardtable table-hover bg-primary auto-resize  mt-2">
     <thead>
       <tr>
         <th scope="col">#</th>

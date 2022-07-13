@@ -6,11 +6,12 @@ html,body{
   height: 100%;
   width: 100%;
   box-sizing: border-box;
-}
-.main{
 
-  /* background: rgb(128, 126, 126); */
+
 }
+
+
+
 .form{
   width: 30rem;
   height: 25rem;
@@ -20,6 +21,7 @@ html,body{
   display: flex;
   align-items: stretch;
   margin-top: -3rem;
+  
 }
 
 #sidebar {
@@ -59,11 +61,13 @@ a, a:hover, a:focus {
 #sidebar .sidebar-header {
   padding: 20px;
   background: #373738;
+
 }
 
 #sidebar ul.components {
   padding: 20px 0;
   border-bottom: 1px solid #373738;
+
 }
 
 #sidebar ul p {
