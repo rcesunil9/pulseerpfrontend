@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div>
         <nav class="navbar navbar-light bg-light">
-    <div class="container-fluid mx-5">
+    <div class="container-fluid">
       <a class="navbar-brand" href="#">
         <img src={Logo} alt="" width="130" height="45" class="d-inline-block align-text-top"/>
         {/* Bootstrap */}
@@ -15,10 +15,10 @@ const Navbar = () => {
   <div className='d-flex justify-content-end '>
     <div className='row'>
       <div className='col-lg-4 col-md-3 col-sm-3 col-3' >
-      <button className='btn btn-primary py-0 px-2 mx-2'>Submit</button> 
+      <button className='btn btn-primary'>Submit</button> 
       </div>
       <div className='col-lg-4 col-md-3 col-sm-3 col-3' >
-      <button className='btn btn-primary py-0 px-2 mx-2'>Submit</button>
+      <button className='btn btn-primary'>Submit</button>
       </div>
       
     </div>

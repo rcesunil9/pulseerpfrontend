@@ -1,88 +1,144 @@
-import React from 'react'
+import React from "react";
 
 const sidebar = () => {
   return (
     <div>
-        <div class="wrapper">
-    <nav id="sidebar">
-        <div class="sidebar-header">
+      <div class="wrapper">
+        <nav id="sidebar">
+          <div class="sidebar-header">
+            <h2>Dashboard</h2>
+          </div>
 
-            <h3>Dashboard</h3>
-        </div>
-
-        <ul class="list-unstyled components text-center">
-            
+          <ul class="list-unstyled components text-center">
             <li class="active">
-
-                <a href="/dashboard" data-toggle="collapse" aria-expanded="false" class="text-decoration-none">Stock</a>
+              <a
+                href="/dashboard"
                 
-                {/* <ul class="collapse list-unstyled" id="homeSubmenu">
-                    <li>
-                        <a href="#">Home 1</a>
-                    </li>
-                    <li>
-                        <a href="#">Home 2</a>
-                    </li>
-                    <li>
-                        <a href="#">Home 3</a>
-                    </li>
-                </ul> */}
+                class="text-decoration-none"
+              >
+                Products
+              </a>
             </li>
             <li>
-                <a href="/dashboard/fbadashboard" className='text-decoration-none'>FBA </a>
+              <a
+                href="/dashboard/fbadashboard"
+                className="text-decoration-none"
+              >
+                Components
+              </a>
             </li>
             <li>
-                <a href="/dashboard/coredatadashboard" data-toggle="collapse" aria-expanded="false" class="text-decoration-none">Core Data</a>
-                {/* <ul class="collapse list-unstyled" id="pageSubmenu">
-                    <li>
-                        <a href="#">Page 1</a>
-                    </li>
-                    <li>
-                        <a href="#">Page 2</a>
-                    </li>
-                    <li>
-                        <a href="#">Page 3</a>
-                    </li>
-                </ul> */}
+              <a
+                href="/dashboard/coredatadashboard"
+                
+                class="text-decoration-none"
+              >
+                Bundle
+              </a>
             </li>
-               <li>
-                <a href="/dashboard/coredatasupplier" className='text-decoration-none'>Core Data Supplier</a>
-            </li>
-              <li>
-              <a href="/dashboard/RecorderDashboard" className='text-decoration-none'>Recorder</a>
-
-               </li>
-              <li> 
-                <a href="/dashboard/salespricing" className='text-decoration-none'>Sales pricing</a>
-              </li>
-              <li>  <a href="/dashboard/spcoredata" className='text-decoration-none'>SP Core Data</a>
-              </li>
-              <li> <a href="/dashboard/spspacoredata" className='text-decoration-none'>SP FBA Core Data</a>
-              </li>
-              <li> <a href="/dashboard/spanalytics" className='text-decoration-none'>SP Analytics</a>
-              </li>
-              <li><a href="/dashboard/purchaseprice" className='text-decoration-none'>Purchase Price</a> 
-              </li>
-              <li><a href="/dashboard/StockPuchase" className='text-decoration-none'>Stock Purchase</a> 
-              </li>
-              <li><a href="/dashboard/UTS_JTL" className='text-decoration-none'>Upload Stock Transfer JTL</a> 
-              </li>
-              <li><a href="/dashboard/purchaseprice" className='text-decoration-none'>b</a> 
-              </li>
-              <li><a href="/dashboard/purchaseprice" className='text-decoration-none'>b</a> 
-              </li>
-              <li><a href="/dashboard/purchaseprice" className='text-decoration-none'>b</a> 
-              </li>
-              <li><a href="/dashboard/purchaseprice" className='text-decoration-none'>b</a> 
-              </li>
             <li>
-                <a href="#">Contact</a>
+              <a
+                href="/dashboard/coredatasupplier"
+                className="text-decoration-none"
+              >
+            Supplier
+              </a>
             </li>
-        </ul>
-    </nav>
+            <li>
+              <a
+                href="/dashboard/RecorderDashboard"
+                className="text-decoration-none"
+              >
+                Inventory Dashboard
+              </a>
+            </li>
+            <li>
+              <a
+                href="/dashboard/salespricing"
+                className="text-decoration-none"
+              >
+                Total Stock
+              </a>
+            </li>
+            <li>
+              
+              <a href="/dashboard/spcoredata" className="text-decoration-none">
+                FBA Stock
+              </a>
+            </li>
+            <li>
+              
+              <a
+                href="/dashboard/spspacoredata"
+                className="text-decoration-none"
+              >
+                Recorder Management
+              </a>
+            </li>
+            <li>
+              
+              <a href="/dashboard/spanalytics" className="text-decoration-none">
+                Purchase Pricing
+              </a>
+            </li>
+            <li>
+              <a
+                href="/dashboard/purchaseprice"
+                className="text-decoration-none"
+              >
+                Sales Pricing
+              </a>
+            </li>
+            <li>
+              <a
+                href="/dashboard/StockPuchase"
+                className="text-decoration-none"
+              >
+                Core Data 
+              </a>
+            </li>
+            <li>
+              <a href="/dashboard/UTS_JTL" className="text-decoration-none">
+                Analytics
+              </a>
+            </li>
+            <li>
+              <a href="/dashboard/imp_jtl" className="text-decoration-none">
+                Stock Transfer
+              </a>
+            </li>
+            <li>
+              <a
+                href="/dashboard/purchaseprice"
+                className="text-decoration-none"
+              >
+                Import To JTL
+              </a>
+            </li>
+            <li>
+              <a
+                href="/dashboard/purchaseprice"
+                className="text-decoration-none"
+              >
+                Import
+              </a>
+            </li>
+            <li>
+              <a
+                href="/dashboard/purchaseprice"
+                className="text-decoration-none"
+              >
+                JTL
+              </a>
+            </li>
+            <li>
+              <a href="#">SELLERBOARD</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  );
+};
 
-</div></div>
-  )
-}
-
-export default sidebar
+export default sidebar;

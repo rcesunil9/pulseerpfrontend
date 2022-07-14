@@ -2,8 +2,7 @@ import React from 'react'
  const Table = () => {
   return (
     <div> 
-      <div className='table-responsive '>
-      <table className="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
+        <table class="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
     <thead>
       <tr>
 
@@ -36,7 +35,7 @@ import React from 'react'
         <th scope="row">2</th>
         <td>Jacob</td>
         <td>Thornton</td>
-        <td>@fat</td>
+        <td>@fat</td>     
 
       </tr>
 
@@ -57,7 +56,6 @@ import React from 'react'
 
   </table>
 
-      </div>
   </div>
   
   )

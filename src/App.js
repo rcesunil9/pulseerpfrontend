@@ -16,6 +16,7 @@ import SPanalytics from './Dashbord/SP-Analytics/SP-Analytics';
 import PurchasePrice from "./Dashbord/Purchase-price/PurchasePrice"
 import StockPuchase from "./Dashbord/StockPuchase/StockPuchase"
 import UTS_JTL from "./Dashbord/StockPuchase/StockPuchase"
+import Import_jtl from './Dashbord/Import_JTL/Import_JTL';
 
 
 import {
@@ -49,6 +50,7 @@ function App() {
       <Route path="/dashboard/purchaseprice" element={<PurchasePrice />} />
       <Route path="/dashboard/StockPuchase" element={<StockPuchase />} />
       <Route path="/dashboard/UTS_JTL" element={<UTS_JTL />} />
+      <Route path="/dashboard/imp_jtl" element={<Import_jtl />} />
 
       
 
