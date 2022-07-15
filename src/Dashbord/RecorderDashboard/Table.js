@@ -12,6 +12,7 @@ const RecorderDashboard = () => {
         <th scope="col">SKU</th>
         <th scope="col">Reorder Quantity</th>
         <th scope="col">Reorder Quantity in VPE</th>
+        
         <th scope="col">"Total stock range in days</th>
         <th scope="col">GLD per 100 units</th>
        

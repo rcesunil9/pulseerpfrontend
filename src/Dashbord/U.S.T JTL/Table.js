@@ -8,16 +8,16 @@ import React from 'react'
       <tr>
 
         <th scope="col">#</th>
-        <th scope="col">Basisc SKU</th>
-        <th scope="col">Current GLD</th>
-        <th scope="col">Total stock Value</th>
-        <th scope="col">Current FBA Stock</th>
-        <th scope="col">Incoming Stock</th>
-        <th scope="col">Daily Sales Velocity</th>
+        <th scope="col">Transfer Number</th>
+        <th scope="col">Position Type</th>
+        <th scope="col">Expected delivery date</th>
+        <th scope="col">item number</th>
+        <th scope="col">Transfer quantity</th>
+        <th scope="col">starting camp</th>
 
-        <th scope="col">Total stock range in days</th>
-        <th scope="col">Minimum Stock Range in days</th>
-        <th scope="col">Main supplier</th>
+        <th scope="col">Target camp</th>
+        <th scope="col">Shipping method</th>
+        <th scope="col">Redistribution weight</th>
 
         <th scope="col">Supplier Lead Time in days</th>
 
@@ -58,6 +58,7 @@ import React from 'react'
   </table>
 
       </div>
+
   </div>
   
   )

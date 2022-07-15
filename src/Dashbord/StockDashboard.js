@@ -200,6 +200,24 @@ const StockDashboard = () => {
 
 </table> */}
 
+  <table>
+  <th>
+    <td>013</td>
+    <td>misha</td>
+    <td>europe</td>
+    <td>45000</td>
+     </th>
+     <th>
+     <td>014</td>
+    <td>neha</td>
+    <td>austria</td>
+    <td>67000</td>
+     </th>
+     <th>
+      <td> piter </td>
+      <td> st </td>
+     </th>
+  </table>
     </div>
   )
 }

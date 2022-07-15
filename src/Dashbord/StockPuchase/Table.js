@@ -12,6 +12,7 @@ import React from 'react'
         <th scope="col">Current FBA Stock</th>
         <th scope="col">Incoming Stock</th>
         <th scope="col">Daily Sales Velocity</th>
+        
         <th scope="col">Total stock range in days</th>
         <th scope="col">Minimum Stock Range in days</th>
         <th scope="col">Main supplier</th>

@@ -9,25 +9,36 @@ import React from 'react'
 
         <th scope="col">Basisc SKU</th>
 
+        <th scope="col">Current Main Supplier</th>
+
+        <th scope="col">Supplier Name</th>
+
+        <th scope="col">Avg Demand 65 days (EU Sourcing)</th>
+
+        <th scope="col">Unit weight</th>
+
         <th scope="col">Current GLD</th>
 
-        <th scope="col">Total stock Value</th>
+        <th scope="col">Supplier Name</th>
 
-        <th scope="col">Current FBA Stock</th>
+        <th scope="col">Country</th>
 
-        <th scope="col">Incoming Stock</th>
+        <th scope="col">Total Lead Time</th>
 
-        <th scope="col">Daily Sales Velocity</th>
+        <th scope="col">Supplier SKU</th>
 
-        <th scope="col">Total stock range in days</th>
 
-        <th scope="col">Minimum Stock Range in days</th>
+        <th scope="col">MOQ/ VPE</th>
 
-        <th scope="col">Main supplier</th>
-        
-        <th scope="col">Supplier Lead Time in days</th>
-        <th scope="col">Reorder Quantity</th>
-        <th scope="col">Expected OOS in days</th>
+        <th scope="col">Link to Online store</th>
+        <th scope="col">Link to Onlinestore</th>
+        <th scope="col">Link to Onlinestore</th>
+        <th scope="col">Link to Onlinestore</th>
+        <th scope="col">Link to Onlinestore</th>
+        <th scope="col">Link to Onlinestore</th>
+        <th scope="col">Link to Onlinestore</th>
+
+
       </tr>
     </thead>
     <tbody>
@@ -54,7 +65,6 @@ import React from 'react'
         <td>@twitter</td>
         
         <td>@twitter</td>
-
 
       </tr>
 

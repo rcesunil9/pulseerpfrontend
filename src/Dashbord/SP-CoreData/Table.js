@@ -6,6 +6,7 @@ import React from 'react'
     <thead>
       <tr>
         <th scope="col">#</th>
+        
         <th scope="col">Basisc SKU</th>
         <th scope="col">Current GLD</th>
         <th scope="col">Total stock Value</th>
@@ -43,7 +44,7 @@ import React from 'react'
 
         <td>@twitter</td>
         <td>@twitter</td>
-
+  
 
       </tr>
 

@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Logo from "../asset/image/logo.png"
 
 const Navbar = () => {
@@ -12,13 +13,13 @@ const Navbar = () => {
       </a>
     </div>
   </nav>
-  <div className='d-flex justify-content-end '>
+  <div className='d-flex justify-content-end'>
     <div className='row'>
-      <div className='col-lg-4 col-md-3 col-sm-3 col-3' >
-      <button className='btn btn-primary'>Submit</button> 
+      <div className='col-lg-5 col-md-3 col-sm-3 col-3' >
+      <button className='btn btn-primary'>Add Product</button> 
       </div>
-      <div className='col-lg-4 col-md-3 col-sm-3 col-3' >
-      <button className='btn btn-primary'>Submit</button>
+      <div className='col-lg-5 col-md-3 col-sm-3 col-3' >
+      <button className='btn btn-primary'>Serch product</button>
       </div>
       
     </div>
