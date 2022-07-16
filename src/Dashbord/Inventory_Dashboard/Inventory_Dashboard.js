@@ -5,20 +5,17 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const SPanalytics = () => {
+const Inventory_Dashboard = () => {
   return (
     <div>
         <Navbar/>
         <div className='d-flex justify-content-between dashboard'>
-          
        <Sidebar/>
       <Table/>
-      
-     
       </div>
     
     </div>
   )
 }
 
-export default SPanalytics
+export default Inventory_Dashboard

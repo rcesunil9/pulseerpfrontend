@@ -9,7 +9,7 @@ import StockDashboard from './StockDashboard';
 // import RecorderDashboard from './RecorderDashboard';
 
 
-const Dashbord = () => {
+const Product = () => {
   return (
     <div>
         <Navbar/>
@@ -30,4 +30,4 @@ const Dashbord = () => {
   )
 }
 
-export default Dashbord
+export default Product

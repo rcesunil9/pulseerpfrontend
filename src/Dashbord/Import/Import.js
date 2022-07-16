@@ -5,7 +5,7 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const CoreDataSupplier = () => {
+const Import = () => {
   return (
     <div>
         <Navbar/>
@@ -21,4 +21,4 @@ const CoreDataSupplier = () => {
   )
 }
 
-export default CoreDataSupplier
+export default Import;

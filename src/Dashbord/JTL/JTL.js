@@ -5,7 +5,7 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const StockPuchase = () => {
+const JTL = () => {
   return (
     <div>
         <Navbar/>
@@ -21,4 +21,4 @@ const StockPuchase = () => {
   )
 }
 
-export default StockPuchase;
+export default JTL;

@@ -5,7 +5,7 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const UTS_JTL = () => {
+const Analytics = () => {
   return (
     <div>
         <Navbar/>
@@ -21,4 +21,4 @@ const UTS_JTL = () => {
   )
 }
 
-export default UTS_JTL;
+export default Analytics;

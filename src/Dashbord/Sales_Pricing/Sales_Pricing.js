@@ -5,7 +5,7 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const PurchasePrice = () => {
+const Sales_Pricing = () => {
   return (
     <div>
         <Navbar/>
@@ -21,4 +21,4 @@ const PurchasePrice = () => {
   )
 }
 
-export default PurchasePrice
+export default Sales_Pricing

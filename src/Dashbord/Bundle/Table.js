@@ -31,8 +31,11 @@ import React from 'react'
         <th scope="col">MOQ/ VPE</th>
 
         <th scope="col">Link to Online store</th>
+
         <th scope="col">Link to Onlinestore</th>
+        
         <th scope="col">Link to Onlinestore</th>
+
         <th scope="col">Link to Onlinestore</th>
         <th scope="col">Link to Onlinestore</th>
         <th scope="col">Link to Onlinestore</th>

@@ -5,7 +5,7 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const Import_JTL = () => {
+const Total_Stock = () => {
   return (
     <div>
         <Navbar/>
@@ -21,4 +21,4 @@ const Import_JTL = () => {
   )
 }
 
-export default Import_JTL;
+export default Total_Stock

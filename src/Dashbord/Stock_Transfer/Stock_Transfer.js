@@ -5,7 +5,7 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const Dashbord = () => {
+const Stock_Transfer = () => {
   return (
     <div>
         <Navbar/>
@@ -21,4 +21,4 @@ const Dashbord = () => {
   )
 }
 
-export default Dashbord
+export default Stock_Transfer;

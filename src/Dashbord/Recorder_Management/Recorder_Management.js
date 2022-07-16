@@ -5,7 +5,7 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const SPCoreData = () => {
+const Recorder_Management = () => {
   return (
     <div>
         <Navbar/>
@@ -21,4 +21,4 @@ const SPCoreData = () => {
   )
 }
 
-export default SPCoreData
+export default Recorder_Management

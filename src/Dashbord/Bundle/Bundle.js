@@ -5,7 +5,7 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const SalesPricing = () => {
+const Bundle = () => {
   return (
     <div>
         <Navbar/>
@@ -21,4 +21,4 @@ const SalesPricing = () => {
   )
 }
 
-export default SalesPricing
+export default Bundle
