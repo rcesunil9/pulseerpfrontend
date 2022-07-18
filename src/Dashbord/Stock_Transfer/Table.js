@@ -13,7 +13,7 @@ import React from 'react'
         <th scope="col">Current FBA Stock</th>
         <th scope="col">Incoming Stock</th>
         <th scope="col">Daily Sales Velocity</th>
-
+        
         <th scope="col">Total stock range in days</th>
         <th scope="col">Minimum Stock Range in days</th>
         <th scope="col">Main supplier</th>
@@ -30,11 +30,16 @@ import React from 'react'
         <td>Chari</td>
         <td>Germany</td>
         <td>@mdo</td>
+
       </tr>
+      
       <tr>
         <th scope="row">2</th>
+
         <td>Jacob</td>
+
         <td>Thornton</td>
+
         <td>@fat</td>     
 
       </tr>

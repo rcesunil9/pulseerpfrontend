@@ -28,11 +28,14 @@ import React from 'react'
     <tbody>
       <tr>
         <th scope="row">1</th>
+
         <td>Chari</td>
         <td>Germany</td>
         <td>@mdo</td>
       </tr>
+      
       <tr>
+
         <th scope="row">2</th>
         <td>Jacob</td>
         <td>Thornton</td>

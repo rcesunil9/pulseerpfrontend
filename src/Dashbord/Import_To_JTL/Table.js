@@ -8,21 +8,11 @@ import React from 'react'
       <tr>
 
         <th scope="col">#</th>
-        <th scope="col">Transfer Number</th>
-        <th scope="col">Position Type</th>
-        <th scope="col">Expected delivery date</th>
         <th scope="col">item number</th>
-        <th scope="col">Transfer quantity</th>
-        <th scope="col">starting camp</th>
-
-        <th scope="col">Target camp</th>
-        <th scope="col">Shipping method</th>
-        <th scope="col">Redistribution weight</th>
-
-        <th scope="col">Supplier Lead Time in days</th>
-
-        <th scope="col">Reorder Quantity</th>
-        <th scope="col">Expected OOS in days</th>
+        <th scope="col">Inventory Wiedemann</th>
+        <th scope="col">incoming</th>
+        <th scope="col">item weight</th>
+        <th scope="col">EK net (for GLD)</th>
       </tr>
     </thead>
     <tbody>

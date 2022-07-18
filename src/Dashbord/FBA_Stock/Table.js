@@ -7,18 +7,18 @@ import React from 'react'
       <tr>
         <th scope="col">#</th>
         
-        <th scope="col">Basisc SKU</th>
-        <th scope="col">Current GLD</th>
-        <th scope="col">Total stock Value</th>
-        <th scope="col">Current FBA Stock</th>
-        <th scope="col">Incoming Stock</th>
-        <th scope="col">Daily Sales Velocity</th>
-        <th scope="col">Total stock range in days</th>
-        <th scope="col">Minimum Stock Range in days</th>
-        <th scope="col">Main supplier</th>
-        <th scope="col">Supplier Lead Time in days</th>
-        <th scope="col">Reorder Quantity</th>
-        <th scope="col">Expected OOS in days</th>
+        <th scope="col">JTL/ FBM SKU/ Bundle</th>
+        <th scope="col">FBA SKU</th>
+        <th scope="col">Basis SKU/ Component</th>
+        <th scope="col">Units of Basis SKU</th>
+        <th scope="col">Daily Sales Velocity - Daum</th>
+        <th scope="col">Daily Sales Velocity currently Sellerboard</th>
+        <th scope="col">Daily Sales Velocitiy - Average</th>
+        <th scope="col">50 days sales velocity VPE</th>
+        <th scope="col">Current FBA stock VPE</th>
+        <th scope="col">FBA stock range</th>
+        <th scope="col">Stock transfer proposal</th>
+        <th scope="col">Shortage!</th>
       </tr>
     </thead>
     <tbody>

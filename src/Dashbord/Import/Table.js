@@ -14,7 +14,6 @@ import React from 'react'
         <th scope="col">item number</th>
         <th scope="col">Transfer quantity</th>
         <th scope="col">starting camp</th>
-
         <th scope="col">Target camp</th>
         <th scope="col">Shipping method</th>
         <th scope="col">Redistribution weight</th>

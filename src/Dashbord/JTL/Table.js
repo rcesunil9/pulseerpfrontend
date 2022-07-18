@@ -4,6 +4,7 @@ import React from 'react'
     <div> 
       <div className='table-responsive '>
       <table className="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
+      
     <thead>
       <tr>
 
@@ -14,13 +15,10 @@ import React from 'react'
         <th scope="col">item number</th>
         <th scope="col">Transfer quantity</th>
         <th scope="col">starting camp</th>
-
         <th scope="col">Target camp</th>
         <th scope="col">Shipping method</th>
         <th scope="col">Redistribution weight</th>
-
         <th scope="col">Supplier Lead Time in days</th>
-
         <th scope="col">Reorder Quantity</th>
         <th scope="col">Expected OOS in days</th>
       </tr>

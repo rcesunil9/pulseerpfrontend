@@ -42,8 +42,11 @@ import React from 'react'
         <td>@twitter</td>
         
         <td>@twitter</td>
+
         <td>@twitter</td>
+
         <td>@twitter</td>
+        
         <td>@twitter</td>
 
 
