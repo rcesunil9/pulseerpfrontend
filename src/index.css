@@ -56,24 +56,24 @@ a, a:hover, a:focus {
 #sidebar {
   /* don't forget to add all the previously mentioned styles here too */
   background: #373738;
-  color: #fff;
+  color: rgba(255, 255, 255, 0.642);
   transition: all 0.3s;
 }
 
 #sidebar .sidebar-header {
   padding: 20px;
-  background: #373738;
+  background: #37373ae4;
 
 }
 
 #sidebar ul.components {
   padding: 20px 0;
-  border-bottom: 1px solid #373738;
+  border-bottom: 1px solid #17177883;
 
 }
 
 #sidebar ul p {
-  color: #fff;
+  color: rgba(255, 255, 255, 0.445);
   padding: 10px;
 }
 

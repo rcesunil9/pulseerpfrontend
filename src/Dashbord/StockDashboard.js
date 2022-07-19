@@ -120,6 +120,9 @@ const StockDashboard = () => {
             <td>Austria</td>  
             <td>30000</td>  
           </tr>  
+
+          
+
           
           <tr>  
             <td>011</td>  
@@ -238,7 +241,7 @@ const StockDashboard = () => {
       <td> piter </td>
       <td> st </td>
      </th>
-     
+
   </table>
     </div>
   )

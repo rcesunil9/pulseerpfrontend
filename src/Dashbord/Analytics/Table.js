@@ -6,6 +6,7 @@ import React from 'react'
     <thead>
       <tr>
         <th scope="col">#</th>
+        
         <th scope="col">FBA SKU</th>
         <th scope="col">Current VK</th>
         <th scope="col">Current DB</th>
@@ -42,6 +43,7 @@ import React from 'react'
         <td colspan="2">Larry the Bird</td>
 
         <td>@twitter</td>
+
         <td>@twitter</td>
 
 

@@ -42,10 +42,12 @@ const Navbar = () => {
   </div>
 </nav>
 
-      <div className="d-flex justify-content-end">
+      <div className="d-flex justify-content-center">
         
-        <button className="btn btn-primary m-1">Add Product</button>
-        <button className="btn btn-primary m-1">Serch product</button>
+        <button className="btn btn-primary m-1">EDIT</button>
+        <button className="btn btn-primary m-1">SUPPLIER TAB</button> 
+        <button className="btn btn-primary m-1">Add Multiple Products</button>
+        <button className="btn btn-primary m-1">Add Single products</button>
       </div>
     </div>
   );

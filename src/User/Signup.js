@@ -53,19 +53,24 @@ const Login = () => {
     cd-commrece.de
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
     <a class="dropdown-item" href="#">Amazone.de</a>
     <a class="dropdown-item" href="#">Amazone.co.uk</a>
     <a class="dropdown-item" href="#">Amazone.ca</a>
   </div>
+
 </div>
     </div>
     <button type="submit" className="btn btn-primary w-100">Submit</button>
     <p className='mt-3'>Already have an account? <a href='/'>LogIn</a></p>
   </fieldset>
+  
 </form>
 <div  className='text-center my-5'>
 <p><small>Contact us:<a src="" href=''> support@cd-commrece.de</a></small></p>
+
 <p><small className='text-center'>All copyrights@cd-commerce<br/>
+
 <a href=''>Privacy Policy</a> and <a href=''>Terms of Service</a> apply.</small></p>
 </div>
         </div>

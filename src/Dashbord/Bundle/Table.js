@@ -32,29 +32,34 @@ import React from 'react'
 
         <th scope="col">Link to Online store</th>
 
-        <th scope="col">Link to Onlinestore</th>
-        
-        <th scope="col">Link to Onlinestore</th>
-
-        <th scope="col">Link to Onlinestore</th>
-        <th scope="col">Link to Onlinestore</th>
-        <th scope="col">Link to Onlinestore</th>
-        <th scope="col">Link to Onlinestore</th>
-
+       
 
       </tr>
+
     </thead>
+
     <tbody>
+
       <tr>
+
         <th scope="row">1</th>
+
         <td>Chari</td>
+
         <td>Germany</td>
+
         <td>@mdo</td>
+
       </tr>
+
       <tr>
+
         <th scope="row">2</th>
+
         <td>Jacob</td>
+
         <td>Thornton</td>
+
         <td>@fat</td>
 
       </tr>
