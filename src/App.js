@@ -5,22 +5,23 @@ import Login from './User/Login';
 import Signup from './User/Signup';
 import Forgotpage from "./User/Forgotpassword";
 import Product from "./Dashbord/Product";
-import Component from "./Dashbord/Component/Component"
-import Bundle from "./Dashbord/Bundle/Bundle"
+import Component from "./Dashbord/Component/Component";
+import Bundle from "./Dashbord/Bundle/Bundle";
 import Supplier from './Dashbord/Supplier/Supplier';
 import Inventory_Dashboard from './Dashbord/Inventory_Dashboard/Inventory_Dashboard';
 import Total_Stock from './Dashbord/Total_Stock/Total_Stock';
 import FBA_Stock from './Dashbord/FBA_Stock/FBA_Stock';
 import Recorder_Management from './Dashbord/Recorder_Management/Recorder_Management';
 import Purchase_Pricing from './Dashbord/Purchase_Pricing/Purchase_Pricing';
-import Sales_Pricing from "./Dashbord/Sales_Pricing/Sales_Pricing"
-import Core_Data from "./Dashbord/Analytics/Analytics"
-import Analytics from "./Dashbord/Analytics/Analytics"
+import Sales_Pricing from "./Dashbord/Sales_Pricing/Sales_Pricing";
+import Core_Data from "./Dashbord/Analytics/Analytics";
+import Analytics from "./Dashbord/Analytics/Analytics";
 import Stock_Transfer from './Dashbord/Stock_Transfer/Stock_Transfer';
 import Import_To_JTL from "./Dashbord/Import_To_JTL/Import_To_JTL";
 import Import from "./Dashbord/Import/Import";
 import JTL from "./Dashbord/JTL/JTL";
-import SELLERBOARD from "./Dashbord/SELLERBOARD/SELLERBOARD"
+import SELLERBOARD from "./Dashbord/SELLERBOARD/SELLERBOARD";
+import Contacts from "./Dashbord/Contacts/Contacts"
 
 
 import {
@@ -59,7 +60,7 @@ function App() {
       <Route path="/product/import" element={<Import />} />
       <Route path="/product/jtl" element={<JTL />} />
       <Route path="/product/sellerboard" element={<SELLERBOARD />} />
-
+      <Route path="/product/Contacts" element={<Contacts />} />
       
 
     </Routes>

@@ -30,6 +30,7 @@ const Login = () => {
     <button type="submit" className="btn btn-primary w-100">Submit</button>
     <p className='mt-3'>Already have an account? <a href='/'>LogIn</a></p>
   </fieldset>
+  
 </form>
 <div  className='text-center my-5'>
 <p><small>Contact us:<a src="" href=''> support@cd-commerce.de</a></small></p>

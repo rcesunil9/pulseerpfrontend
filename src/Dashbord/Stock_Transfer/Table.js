@@ -1,5 +1,7 @@
 import React from 'react'
+
  const Table = () => {
+  
   return (
     <div> 
         <table class="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
@@ -22,6 +24,7 @@ import React from 'react'
 
         <th scope="col">Reorder Quantity</th>
         <th scope="col">Expected OOS in days</th>
+
       </tr>
     </thead>
     <tbody>

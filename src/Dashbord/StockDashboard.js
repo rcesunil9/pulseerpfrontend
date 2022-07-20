@@ -77,6 +77,7 @@ const StockDashboard = () => {
             <td>India</td>  
             
           <td>18000</td>  
+          
           </tr>  
 
           <tr>  

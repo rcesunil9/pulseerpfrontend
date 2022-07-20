@@ -1,42 +1,40 @@
 import React from 'react'
  const Table = () => {
+
   return (
+
     <div> 
         <table class="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
     <thead>
       <tr>
         <th scope="col">#</th>
+        
+        <th scope="col"> Full Name </th>
 
-        <th scope="col">FBA SKU</th>
+        <th scope="col"> Phone </th>
 
-        <th scope="col">Current VK</th>
+        <th scope="col"> Email id</th>
 
-        <th scope="col">Current DB</th>
+        <th scope="col"> Company </th>
 
-        <th scope="col">ROI</th>
+        <th scope="col"> Status </th>
 
-        <th scope="col">Marge</th>
+        <th scope="col"> Address </th>
 
-        <th scope="col">Sales Velocity</th>
+        <th scope="col"> City </th>
 
-        <th scope="col">Ratio New VK vs. Current VK</th>
+        <th scope="col"> State </th>
 
-        <th scope="col">New VK</th>
-
-        <th scope="col">DB</th>
-
-        <th scope="col">ROI</th>
-
-        <th scope="col">Marge</th>
-
-        <th scope="col">Sales Velocity</th>
+        <th scope="col"> ZIPCODE </th>
 
       </tr>
 
     </thead>
 
     <tbody>
+
       <tr>
+
         <th scope="row">1</th>
         <td>Chari</td>
         <td>Germany</td>
@@ -45,7 +43,7 @@ import React from 'react'
       </tr>
       
       <tr>
-
+      
         <th scope="row">2</th>
         <td>Jacob</td>
         <td>Thornton</td>
@@ -62,7 +60,7 @@ import React from 'react'
         <td>@twitter</td>
 
         <td>@twitter</td>
-
+  
 
       </tr>
 

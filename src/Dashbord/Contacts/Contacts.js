@@ -5,8 +5,7 @@ import Sidebar from '../../sidebar/sidebar';
 import Table from "./Table"
 
 
-const FBA_Stock = () => {
-  
+const Contacts = () => {
   return (
     <div>
         <Navbar/>
@@ -22,4 +21,4 @@ const FBA_Stock = () => {
   )
 }
 
-export default FBA_Stock
+export default Contacts

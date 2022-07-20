@@ -56,7 +56,7 @@ a, a:hover, a:focus {
 #sidebar {
   /* don't forget to add all the previously mentioned styles here too */
   background: #373738;
-  color: rgba(255, 255, 255, 0.642);
+  color: rgba(26, 24, 24, 0.642);
   transition: all 0.3s;
 }
 

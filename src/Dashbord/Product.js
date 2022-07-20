@@ -16,9 +16,11 @@ const Product = () => {
         <div className='d-flex justify-content-center dashboard'>
           
        <Sidebar/>
-    
+
       
       <StockDashboard/> 
+
+      
       {/* <FBAStockDashboard/> */}
       {/* <CoreDataDashboard/> */}
       {/* <CoreDataSuplierDashboard/> */}

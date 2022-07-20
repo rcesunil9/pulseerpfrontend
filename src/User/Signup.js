@@ -54,9 +54,13 @@ const Login = () => {
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 
-    <a class="dropdown-item" href="#">Amazone.de</a>
-    <a class="dropdown-item" href="#">Amazone.co.uk</a>
-    <a class="dropdown-item" href="#">Amazone.ca</a>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+<a class="dropdown-item" href="#">Amazone.de</a>
+<a class="dropdown-item" href="#">Amazone.co.uk</a>
+<a class="dropdown-item" href="#">Amazone.ca</a>
+
+      </div>
   </div>
 
 </div>

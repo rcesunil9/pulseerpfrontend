@@ -1,6 +1,7 @@
 import React from "react";
 
 const sidebar = () => {
+  
   return (
     <div>
       <div class="wrapper">
@@ -91,8 +92,16 @@ const sidebar = () => {
               </a>
             </li>
             <li>
-              <a href="/product/sellerboard" className="text-decoration-none">SELLERBOARD</a>
+              <a href="/product/sellerboard" className="text-decoration-none">
+                SELLERBOARD
+                </a>
             </li>
+            <li>
+              <a href="/product/Contacts" className="text-decoration-none">
+              Contacts
+                </a>
+            </li>
+
           </ul>
         </nav>
       </div>

@@ -41,7 +41,7 @@ import React from 'react'
     <tbody>
 
       <tr>
-        
+
         <th scope="row">1</th>
         <td>Chari</td>
         <td>Germany</td>
