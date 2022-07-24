@@ -3,18 +3,19 @@ import React from 'react'
 import Navbar from '../../navbar/Navbar';
 import Sidebar from '../../sidebar/sidebar';
 
-import FBAStockDashboard from "./FBAStockDashboard"
+import Table from "./Table"
 
 
 const Component = () => {
   return (
     <div>
         <Navbar/>
-        <div className='d-flex justify-content-between dashboard'>
 
+        <div className='d-flex justify-content-between.table-striped .table-bordered dashboard'>
+ 
        <Sidebar/>
 
-      <FBAStockDashboard/>
+      <Table/>
 
       </div>
       

@@ -19,6 +19,7 @@ const Login = () => {
     <legend className='my-5'>Forgot Password</legend>
     <div className="my-4">
       {/* <label for="disabledTextInput" className="form-label mt-4">Disabled input</label> */}
+      
       <InputGroup>
     <InputGroupText>
       <FaUserAlt/>

@@ -43,11 +43,12 @@ const Navbar = () => {
 </nav>
 
       <div className="d-flex justify-content-center">
-        <button className="btn btn-primary m-1">EDIT</button>
-        <button className="btn btn-primary m-1">SUPPLIER TAB</button> 
+        <button className="btn btn-primary m-1">Component</button>
+        <button className="btn btn-primary m-1">Search</button>
+       <button className="btn btn-primary m-1">Sort by </button>
+
         <button className="btn btn-primary m-1">Add Multiple Products</button>
         <button className="btn btn-primary m-1">Add Single products</button>
-        <input type="text" placeholder="Search.."></input>
         
 
       </div>

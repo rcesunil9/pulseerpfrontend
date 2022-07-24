@@ -1,19 +1,17 @@
 import React from 'react'
-
-const FBAStockDashboard = () => {
+const Table  = () => {
   return (
-    <div> <table class="table dashboardtable table-hover bg-primary auto-resize -left mt-2">
+
+    <div> <table class="table table-striped table-hover bg-primary auto-resize -text-center mt-5">
       
-    
+
     <thead>
 
       <tr>
 
-  
-
         <th scope="col">#</th>
 
-        <th scope="col">SKU</th>
+        <th scope="col">SKU</th><br></br>
 
         <th scope="col">Supplier Name</th>
 
@@ -41,20 +39,24 @@ const FBAStockDashboard = () => {
       </tr>
     
       <tr>
+
         <th scope="row">2</th>
         <td>Jacob</td>
         <td>Thornton</td>
         <td>@fat</td>
       </tr>
+
       <tr>
         <th scope="row">3</th>
         <td colspan="2">Larry the Bird</td>
         <td>@twitter</td>
+
       </tr>
     </tbody>
-  </table></div>
+  </table> 
+  </div>
 
   )
 } 
 
-export default FBAStockDashboard
+export default Table
