@@ -2,22 +2,22 @@ import React from 'react'
 const Table  = () => {
   return (
 
-    <div> <table class="table table-striped table-hover bg-primary auto-resize -text-center mt-5">
+    <div> <table class="table table-striped table-hover bg-primary auto-resize -text-center mt-10">
       
 
     <thead>
 
       <tr>
 
-        <th scope="col">#</th>
+        <th scope="col">#</th><br></br>
 
-        <th scope="col">SKU</th><br></br>
+        <th scope="col">SKU</th>
 
-        <th scope="col">Supplier Name</th>
+        <th scope="col">Supplier Name</th><br></br>
 
-        <th scope="col">Supplier SKU</th>
+        <th scope="col">Supplier SKU</th> 
 
-        <th scope="col">Link To the Online Store</th>
+        <th scope="col">Link To the Online Store</th> 
 
   
 
@@ -27,10 +27,10 @@ const Table  = () => {
 
     <tbody>
 
-      <tr>
+     <tr>
 
-        <th scope="row">1</th>
-        <td>Mark</td>
+        <th scope="row">1</th> 
+        <td>Mark</td> 
         <td>Mark</td>
         <td>Mark</td>
         <td>Mark</td>

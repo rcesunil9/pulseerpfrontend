@@ -11,7 +11,7 @@ const Component = () => {
     <div>
         <Navbar/>
 
-        <div className='d-flex justify-content-between.table-striped .table-bordered dashboard'>
+        <div className='d-flex justify-content-between.table-striped dashboard'>
  
        <Sidebar/>
 
