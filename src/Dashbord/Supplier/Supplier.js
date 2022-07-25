@@ -6,12 +6,17 @@ import Table from "./Table"
 
 
 const Supplier = () => {
+
   return (
+
     <div>
+
         <Navbar/>
-        <div className='d-flex justify-content-between dashboard'>
+        
+        <div className='d-flex justify-content-between.table-striped dashboard'>
           
        <Sidebar/>
+
       <Table/>
       
      

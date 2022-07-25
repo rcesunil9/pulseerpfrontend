@@ -8,15 +8,25 @@ import React from 'react'
       <tr>
 
         <th scope="col">#</th>
+
         <th scope="col">item number</th>
+
         <th scope="col">Inventory Wiedemann</th>
+
         <th scope="col">incoming</th>
+
         <th scope="col">item weight</th>
+
         <th scope="col">EK net (for GLD)</th>
+
       </tr>
+
     </thead>
+
     <tbody>
+
       <tr>
+        
         <th scope="row">1</th>
         <td>Chari</td>
         <td>Germany</td>
@@ -29,7 +39,7 @@ import React from 'react'
         <td>@fat</td>
 
       </tr>
-
+      
       <tr>
 
         <th scope="row">3</th>

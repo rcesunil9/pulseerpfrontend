@@ -1,19 +1,26 @@
 import React from 'react'
 const Table  = () => {
+
   return (
 
-    <div> <table class="table table-striped table-hover bg-primary auto-resize -text-center mt-10">
+
+<div> 
+
+
+  
+  <table class="table table-striped table-hover bg-primary auto-resize -text-center mt-10">
       
 
-    <thead>
+
+    <thead class>
 
       <tr>
 
-        <th scope="col">#</th><br></br>
+        <th scope="col">#</th>
 
         <th scope="col">SKU</th>
 
-        <th scope="col">Supplier Name</th><br></br>
+        <th scope="col">Supplier Name</th>
 
         <th scope="col">Supplier SKU</th> 
 
@@ -29,31 +36,66 @@ const Table  = () => {
 
      <tr>
 
-        <th scope="row">1</th> 
-        <td>Mark</td> 
-        <td>Mark</td>
-        <td>Mark</td>
-        <td>Mark</td>
-       
+        <th scope="row">1</th>
+
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
        
       </tr>
     
       <tr>
 
         <th scope="row">2</th>
-        <td>Jacob</td>
-        <td>Thornton</td>
-        <td>@fat</td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+
       </tr>
 
       <tr>
         <th scope="row">3</th>
-        <td colspan="2">Larry the Bird</td>
-        <td>@twitter</td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
 
       </tr>
+
+      <tr>
+        <th scope="row">4</th>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+
+      </tr>
+      <tr>
+        <th scope="row">5</th>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+
+      </tr>
+      <tr>
+        <th scope="row">6</th>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+
+      </tr>
+
+
     </tbody>
-  </table> 
+
+  </table>
+
+  
+
   </div>
 
   )

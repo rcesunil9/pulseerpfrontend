@@ -40,6 +40,7 @@ const Navbar = () => {
       </form>
     </div> */}
   </div>
+  
 </nav>
 
       <div className="d-flex justify-content-center">
