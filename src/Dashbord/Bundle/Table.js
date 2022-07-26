@@ -4,6 +4,8 @@ import React from 'react'
     <div> 
         <table class="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
     <thead>
+    <table class="center"> </table>
+
       <tr>
         <th scope="col">#</th>
 

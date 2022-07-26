@@ -16,21 +16,30 @@ import React from 'react'
         <th scope="col">New VK</th>
         <th scope="col">DB</th>
         <th scope="col">ROI</th>
-        
         <th scope="col">Marge</th>
 
         <th scope="col">Sales Velocity</th>
       </tr>
 
     </thead>
+
     <tbody>
 
       <tr>
+        
         <th scope="row">1</th>
-        <td>Chari</td>
-        <td>Germany</td>
-        <td>@mdo</td>
-      </tr>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        
+              </tr>
 
       <tr>
         <th scope="row">2</th>

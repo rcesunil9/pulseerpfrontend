@@ -54,6 +54,7 @@ const Table = () => {
         <td>@mdo</td>
 
       </tr>
+      
       <tr>
 
         <th scope="row">2</th>

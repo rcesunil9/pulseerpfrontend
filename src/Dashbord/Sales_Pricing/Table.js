@@ -8,34 +8,30 @@ import React from 'react'
         <th scope="col">#</th>
         <th scope="col">FBA SKU</th>
         <th scope="col">Purchase Price for Sellerboard</th>
-        <th scope="col">Last updated - automatically</th>
+        <th scope="col">Last updated-automatically</th>
              </tr>
     </thead>
     <tbody>
       <tr>
         <th scope="row">1</th>
-        <td>Chari</td>
-        <td>Germany</td>
-        <td>@mdo</td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
       </tr>
       <tr>
         <th scope="row">2</th>
-        <td>Jacob</td>
-        <td>Thornton</td>
-        <td>@fat</td>
-
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
       </tr>
 
       <tr>
 
         <th scope="row">3</th>
 
-        <td colspan="2">Larry the Bird</td>
-
-        <td>@twitter</td>
-        
-        <td>@twitter</td>
-
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
+        <td><input type="text" name="links" /></td>
 
       </tr>
 

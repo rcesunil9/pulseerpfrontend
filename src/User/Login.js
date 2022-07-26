@@ -20,14 +20,21 @@ const Login = () => {
         <form className='px-5 mx-auto form py-4'>
   <fieldset disabled>
     <legend className='my-5'>Log In to your account.</legend>
+
     <div className="my-4">
+
       {/* <label for="disabledTextInput" className="form-label mt-4">Disabled input</label> */}
+
       <InputGroup>
+
     <InputGroupText>
+
       <FaUserAlt/>
+
     </InputGroupText>
     
     <Input type="text" id="disabledTextInput" className="form-control" placeholder="username" />
+    
   </InputGroup>
      
     </div>

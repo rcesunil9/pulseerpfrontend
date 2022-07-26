@@ -1,6 +1,7 @@
 import React from 'react'
  const Table = () => {
   return (
+    
     <div> 
       <div className='table-responsive '>
       <table className="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">

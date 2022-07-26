@@ -173,6 +173,7 @@ const StockDashboard = () => {
      </th>
 
   </table>
+  
     </div>
   )
 }
