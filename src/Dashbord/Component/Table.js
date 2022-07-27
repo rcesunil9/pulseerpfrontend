@@ -8,7 +8,7 @@ const Table  = () => {
 
 
   
-  <table class="table table-striped table-hover bg-primary auto-resize -text-center mt-10">
+  <table class="table table-striped table-hover bg-Darkgrey auto-resize -text-center mt-10">
       
 
 

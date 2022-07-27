@@ -50,7 +50,7 @@ import React from 'react'
 
         <th scope="row">1</th>
 
-        <td>Chari</td>
+        <td>Chari-dick</td>
 
         <td>Germany</td>
 

@@ -50,9 +50,13 @@ const StockDashboard = () => {
           <tr> 
 
             <td>001</td>  
-           
-            
 
+            <td class="first_name">Larryjohan</td>
+            <td class="first_name">Larrydonj</td>
+            <td class="first_name">Larryali</td>
+            <td class="first_name">Larryannn</td>
+            <td class="first_name">Larrymaaaa</td>
+            <td class="first_name">Larrytojan</td>
 
           </tr> 
 
@@ -78,6 +82,7 @@ const StockDashboard = () => {
      
 
 </table>
+
 </div>
         
 
@@ -177,4 +182,5 @@ const StockDashboard = () => {
     </div>
   )
 }
+
 export default StockDashboard
