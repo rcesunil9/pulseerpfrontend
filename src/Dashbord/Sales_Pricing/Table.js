@@ -14,25 +14,25 @@ import React from 'react'
     <tbody>
       <tr>
         <th scope="row">1</th>
-        <td><input type="text" name="links" /></td>
-        <td><input type="text" name="links" /></td>
-        <td><input type="text" name="links" /></td>
-      </tr>
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+              </tr>
       <tr>
         <th scope="row">2</th>
-        <td><input type="text" name="links" /></td>
-        <td><input type="text" name="links" /></td>
-        <td><input type="text" name="links" /></td>
-      </tr>
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+              </tr>
 
       <tr>
 
         <th scope="row">3</th>
 
-        <td><input type="text" name="links" /></td>
-        <td><input type="text" name="links" /></td>
-        <td><input type="text" name="links" /></td>
-
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+        
       </tr>
 
     </tbody>

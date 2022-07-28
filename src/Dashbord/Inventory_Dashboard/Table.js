@@ -3,8 +3,11 @@ const RecorderDashboard = () => {
   return (
     <div> 
         <table class="table dashboardtable table-hover bg-primary auto-resize  mt-2">
+
     <thead>
+
       <tr>
+
         <th scope="col">#</th>
         <th scope="col">Current Main Supplier</th>
         <th scope="col">Supplier Name</th>
@@ -12,8 +15,7 @@ const RecorderDashboard = () => {
         <th scope="col">SKU</th>
         <th scope="col">Reorder Quantity</th>
         <th scope="col">Reorder Quantity in VPE</th>
-        
-        <th scope="col">"Total stock range in days</th>
+        <th scope="col">Total stock range in days</th>
         <th scope="col">GLD per 100 units</th>
        
       
@@ -23,30 +25,44 @@ const RecorderDashboard = () => {
       <tr>
         <th scope="row">1</th>
         
-        <td>sunil</td>
-        <td>Mark</td>
-        <td>Mark</td>
-        <td>Mark</td>
-        <td>Mark</td>
-        <td>Mark</td>
-        <td>Mark</td>
-        
+      <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">Active</td>
+            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">Indore</td>
+            <td class="first_name">Madhay Pradesh</td>
+            
+
       </tr>
       <tr>
 
         <th scope="row">2</th>
-        <td>Sunil</td>
-        <td>kumar</td>
-        <td>Pd</td>
-        <td>india</td>
-        <td>MP- Bhopal</td>
+
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">Active</td>
+            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">Indore</td>
+            <td class="first_name">Madhay Pradesh</td>
+           
+
       </tr>
       <tr>
         <th scope="row">3</th>
-        <td colspan="2">Larry the Bird</td>
-        <td>@twitter</td>
-        <td>Linkdin</td>
-        <td>Insatgram</td>
+               <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">Active</td>
+            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">Indore</td>
+            <td class="first_name">Madhay Pradesh</td>
+           
+
       </tr>
     </tbody>
   </table>

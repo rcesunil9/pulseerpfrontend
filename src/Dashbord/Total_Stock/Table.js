@@ -25,22 +25,39 @@ const Table = () => {
 
         <th scope="row">1</th>
 
-        <td> </td>
-        <td>Otto</td>
-        <td>@mdo</td>
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">Active</td>
+            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">Indore</td>
+            <td class="first_name">Madhay Pradesh</td>
+
       </tr>
 
       <tr>
         <th scope="row">2</th>
-        <td>Jacob</td>
-        <td>Thornton</td>
-        <td>@fat</td>
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">Active</td>
+            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">Indore</td>
+            <td class="first_name">Madhay Pradesh</td>
 
       </tr>
       <tr>
         <th scope="row">3</th>
-        <td colspan="2">Larry the Bird</td>
-        <td>@twitter</td>
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">Active</td>
+            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">Indore</td>
+            <td class="first_name">Madhay Pradesh</td>
 
       </tr>
     </tbody>

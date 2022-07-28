@@ -15,7 +15,7 @@ const StockDashboard = () => {
 
         <tr>
 
-<th scope="col">#</th>
+<th scope="col">Sr.no </th>
 
 <th scope="col">JTE/FBM SKU/Bundle</th>
 

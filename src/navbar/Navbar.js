@@ -43,14 +43,16 @@ const Navbar = () => {
   
 </nav>
 
-      <div className="d-flex justify-content-center">
-        <button className="btn btn-primary m-1">Component</button>
-        <button className="btn btn-primary m-1">Search</button>
-       <button className="btn btn-primary m-1">Sort by </button>
-       <button className="btn btn-primary m-1">EDIT</button>
-        <button className="btn btn-primary m-1">Add Multiple Products</button>
-        <button className="btn btn-primary m-1">Add Single products</button>
-        
+      <div className="d-flex justify-content-end">
+      <button className="btn btn-Darkgrey m-1">Component</button>
+       <button className="btn btn-Darkgrey m-1">Sort by </button>
+       <button className="btn btn-Darkgrey m-1">EDIT</button>
+        <button className="btn btn-Darkgrey m-1">Add Multiple Products</button>
+        <button className="btn btn-Darkgrey m-1">Add Single products</button>
+        <form class="d-flex">
+        <input class="form-control me-0" type="search" placeholder="Search" aria-label="Search"></input>
+        <button class="btn btn-Darkgrey" type="submit">Search</button>
+      </form>
 
       </div>
     </div>
