@@ -10,8 +10,9 @@ const sidebar = () => {
             <h2>Dashboard</h2>
           </div>
 
-          <ul class="list-unstyled components text-center">
+          <ul class="list-styled components text-center">
             <li class="active">
+
               <a href="/product" class="text-decoration-none">
                 Products
               </a>

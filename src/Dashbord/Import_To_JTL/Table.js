@@ -8,7 +8,7 @@ import React from 'react'
     <thead>
       <tr>
 
-        <th scope="col">#</th>
+        <th scope="col">Srno.</th>
 
         <th scope="col">Item number</th>
 
@@ -33,7 +33,8 @@ import React from 'react'
             <td class="Inventory_Wiedemann">0</td>
             <td class="incoming"> 0 </td>
             <td class="item_weight">0,0001</td>
-            <td class="EKnet_for GLD">0</td>
+            <td class="EKnet_for GLD">0</td><button className="btn btn-Darkgrey m-1">Edit</button>
+
       </tr>
       <tr>
         <th scope="row">2</th>
@@ -41,7 +42,8 @@ import React from 'react'
             <td class="Inventory_Wiedemann">0</td>
             <td class="incoming"> 0 </td>
             <td class="item_weight">0,0001</td>
-            <td class="EKnet_for GLD">0</td>
+            <td class="EKnet_for GLD">0</td><button className="btn btn-Darkgrey m-1">Edit</button>
+
 
 
       </tr>
@@ -54,7 +56,8 @@ import React from 'react'
             <td class="Inventory_Wiedemann">11</td>
             <td class="incoming"> 0 </td>
             <td class="item_weight">0,00018</td>
-            <td class="EKnet_for GLD">0,0026</td>
+            <td class="EKnet_for GLD">0,0026</td><button className="btn btn-Darkgrey m-1">Edit</button>
+
 
       </tr>
 

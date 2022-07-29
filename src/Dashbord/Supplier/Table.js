@@ -4,7 +4,7 @@ const Table = () => {
     <div> 
 
 
-         <table class="table dashboardtable table-hover Darkgrey auto-resize -10 mt-2">
+         <table class="table dashboardtable table-hover bg-Darkgrey auto-resize -10 mt-2">
 
     <thead class="thead-light">
 
@@ -41,7 +41,7 @@ const Table = () => {
             <td class="first_name">Sprasad@cd-commerece.de</td>
             <td class="first_name">CD-commmerce ltd</td>
             <td class="first_name">Active</td>
-            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">B/16, Gachnanagar</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
 
@@ -53,7 +53,7 @@ const Table = () => {
             <td class="first_name">Sprasad@cd-commerece.de</td>
             <td class="first_name">CD-commmerce ltd</td>
             <td class="first_name">Active</td>
-            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">B/16, Gachnanagar</td><button className="btn btn-Darkgrey m-1">Edit</button>
            
 
       </tr>
@@ -66,7 +66,7 @@ const Table = () => {
             <td class="first_name">Sprasad@cd-commerece.de</td>
             <td class="first_name">CD-commmerce ltd</td>
             <td class="first_name">Active</td>
-            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">B/16, Gachnanagar</td><button className="btn btn-Darkgrey m-1">Edit</button>
             
 
       </tr>

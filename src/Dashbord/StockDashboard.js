@@ -51,13 +51,18 @@ const StockDashboard = () => {
 
             <td>001</td>  
 
-            <td class="first_name">Larryjohan</td>
-            <td class="first_name">Larrydonj</td>
-            <td class="first_name">Larryali</td>
-            <td class="first_name">Larryannn</td>
-            <td class="first_name">Larrymaaaa</td>
-            <td class="first_name">Larrytojan</td>
-
+            <td class="first_name">Raj</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Sprasad@c</td>
+            <td class="first_name">Raj kumar</td>
           </tr> 
 
 
@@ -66,16 +71,34 @@ const StockDashboard = () => {
           
           <tr>  
             <td>011</td>  
-            <td>Sara</td>  
-            <td>China</td>  
-            <td>750000</td>  
+            <td class="first_name">Raj</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Sprasad@c</td>
+            <td class="first_name">Raj kumar</td>
           </tr>  
 
           <tr>  
             <td>012</td>  
-            <td>JonRoot</td>  
-            <td>Argentina</td>  
-            <td>65000</td>  
+            <td class="first_name">Raj</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Sprasad@c</td>
+            <td class="first_name">Raj kumar</td>
 
           </tr>  
         </tbody>  

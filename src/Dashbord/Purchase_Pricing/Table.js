@@ -2,7 +2,7 @@ import React from 'react'
  const Table = () => {
   return (
     <div> 
-        <table class="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
+        <table class="table dashboardtable table-hover bg-Darkgrey auto-resize -10 mt-2">
     <thead>
 
       <tr>
@@ -35,7 +35,9 @@ import React from 'react'
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">Indore</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
         
               </tr>
 
@@ -48,7 +50,9 @@ import React from 'react'
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">Indore</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
 
@@ -63,7 +67,9 @@ import React from 'react'
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">B/16, Gachnanagar</td>
+            <td class="first_name">Indore</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
 

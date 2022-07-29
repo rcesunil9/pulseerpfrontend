@@ -43,15 +43,15 @@ const Navbar = () => {
   
 </nav>
 
-      <div className="d-flex justify-content-end">
+      <div className="d-flex justify-content-center">
+
       <button className="btn btn-Darkgrey m-1">Component</button>
        <button className="btn btn-Darkgrey m-1">Sort by </button>
-       <button className="btn btn-Darkgrey m-1">EDIT</button>
-        <button className="btn btn-Darkgrey m-1">Add Multiple Products</button>
-        <button className="btn btn-Darkgrey m-1">Add Single products</button>
+        <button className="btn btn-Darkgrey m-1">Add Products</button>
         <form class="d-flex">
-        <input class="form-control me-0" type="search" placeholder="Search" aria-label="Search"></input>
+        <input class="form-control me-1" type="search" placeholder="Search" aria-label="Search"></input>
         <button class="btn btn-Darkgrey" type="submit">Search</button>
+        
       </form>
 
       </div>

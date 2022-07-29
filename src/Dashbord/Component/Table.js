@@ -41,7 +41,7 @@ const Table  = () => {
         <td class="first_name">Raj kumar Prasad</td>
             <td class="first_name">+91-9041414538</td>
             <td class="first_name">Sprasad@cd-commerece.de</td>
-            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">CD-commmerce ltd</td><button className="btn btn-Darkgrey m-1">Edit</button>
            
 
        
@@ -53,7 +53,7 @@ const Table  = () => {
         <td class="first_name">Raj kumar Prasad</td>
             <td class="first_name">+91-9041414538</td>
             <td class="first_name">Sprasad@cd-commerece.de</td>
-            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">CD-commmerce ltd</td><button className="btn btn-Darkgrey m-1">Edit</button>
             
 
       </tr>
@@ -63,7 +63,7 @@ const Table  = () => {
         <td class="first_name">Raj kumar Prasad</td>
             <td class="first_name">+91-9041414538</td>
             <td class="first_name">Sprasad@cd-commerece.de</td>
-            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">CD-commmerce ltd</td><button className="btn btn-Darkgrey m-1">Edit</button>
             
 
       </tr>
@@ -73,7 +73,7 @@ const Table  = () => {
         <td class="first_name">Raj kumar Prasad</td>
             <td class="first_name">+91-9041414538</td>
             <td class="first_name">Sprasad@cd-commerece.de</td>
-            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">CD-commmerce ltd</td><button className="btn btn-Darkgrey m-1">Edit</button>
             
 
       </tr>
@@ -82,7 +82,7 @@ const Table  = () => {
         <td class="first_name">Raj kumar Prasad</td>
             <td class="first_name">+91-9041414538</td>
             <td class="first_name">Sprasad@cd-commerece.de</td>
-            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">CD-commmerce ltd</td><button className="btn btn-Darkgrey m-1">Edit</button>
             
 
       </tr>
@@ -91,7 +91,7 @@ const Table  = () => {
         <td class="first_name">Raj kumar Prasad</td>
             <td class="first_name">+91-9041414538</td>
             <td class="first_name">Sprasad@cd-commerece.de</td>
-            <td class="first_name">CD-commmerce ltd</td>
+            <td class="first_name">CD-commmerce ltd</td><button className="btn btn-Darkgrey m-1">Edit</button>
             
 
       </tr>

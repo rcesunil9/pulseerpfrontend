@@ -4,7 +4,7 @@ import React from 'react'
   
   return (
     <div> 
-        <table class="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
+        <table class="table dashboardtable table-hover bg-Darkgrey auto-resize -10 mt-2">
     <thead>
       <tr>
 
@@ -30,20 +30,39 @@ import React from 'react'
     <tbody>
       <tr>
         <th scope="row">1</th>
-        <td>Chari</td>
-        <td>Germany</td>
-        <td>@mdo</td>
+        <td class="first_name">Raj</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Sprasad@c</td>
+            <td class="first_name">Raj kumar</td>
+
+
 
       </tr>
       
       <tr>
         <th scope="row">2</th>
 
-        <td>Jacob</td>
+        <td class="first_name">Raj</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Sprasad@c</td>
+            <td class="first_name">Raj kumar</td>
 
-        <td>Thornton</td>
-
-        <td>@fat</td>     
 
       </tr>
 
@@ -51,11 +70,19 @@ import React from 'react'
 
         <th scope="row">3</th>
 
-        <td colspan="2">Larry the Bird</td>
+        <td class="first_name">Raj</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd</td>
+            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Sprasad@c</td>
+            <td class="first_name">Raj kumar</td>
 
-        <td>@twitter</td>
-        
-        <td>@twitter</td>
 
 
       </tr>

@@ -8,13 +8,13 @@ import React from 'react'
 
       <div className='table-responsive '>
 
-      <table className="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
+      <table className="table dashboardtable table-hover bg-Darkgrey auto-resize -10 mt-2">
 
     <thead>
 
       <tr>
 
-        <th scope="col">#</th>
+        <th scope="col">Srno.</th>
 
         <th scope="col">Transfer Number</th>
 
@@ -50,23 +50,38 @@ import React from 'react'
 
         <th scope="row">1</th>
 
-        <td>Chari-dick</td>
-
-        <td>Germany</td>
-
-        <td>@mdo</td>
-        
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            
       </tr>
       
       <tr>
 
         <th scope="row">2</th>
 
-        <td>Jacob</td>
-
-        <td>Thornton</td>
-
-        <td>@fat</td>
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            
 
       </tr>
 
@@ -74,11 +89,19 @@ import React from 'react'
 
         <th scope="row">3</th>
 
-        <td colspan="2">Larry the Bird</td>
-
-        <td>@twitter</td>
-        
-        <td>@twitter</td>
+        <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">+91-9041414538</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            <td class="first_name">Sprasad@cd-commerece.de</td>
+            <td class="first_name">Raj kumar Prasad</td>
+            
 
 
       </tr>

@@ -3,14 +3,14 @@ import React from 'react'
 const Table = () => {
   return (
     <div> 
-         <table class="table dashboardtable table-hover bg-primary auto-resize -10 mt-2">
+         <table class="table dashboardtable table-hover bg-Darkgrey auto-resize -10 mt-2">
     <thead>
 
       <tr>
 
         <th scope="col">#</th>
-        <th scope="col">"Supplier Name short form</th>
-        <th scope="col">"Supplier Name according to JTL</th>
+        <th scope="col">Supplier Name short form</th>
+        <th scope="col">Supplier Name according to JTL</th>
         <th scope="col">Country</th>
         <th scope="col">Lead Time</th>
         <th scope="col">Minimum stock range</th>
@@ -32,7 +32,7 @@ const Table = () => {
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
 
@@ -45,7 +45,7 @@ const Table = () => {
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
       <tr>
@@ -56,8 +56,8 @@ const Table = () => {
             <td class="first_name">CD-commmerce ltd</td>
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
-            <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">Satna</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
     </tbody>

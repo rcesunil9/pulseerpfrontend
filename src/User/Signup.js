@@ -37,13 +37,13 @@ const Login = () => {
     <InputGroupText>
       <FaLock/>
     </InputGroupText>
-    <Input type="text" id="disabledTextInput" className="form-control" placeholder="Password" />
+    <Input type="text" id="insabledTextInput" className="form-control" placeholder="Password" />
   </InputGroup>
   <InputGroup>
     <InputGroupText>
       <FaLock/>
     </InputGroupText>
-    <Input type="text" id="disabledTextInput" className="form-control" placeholder="Confirm Password" />
+    <Input type="text" id="insabledTextInput" className="form-control" placeholder="Confirm Password" />
   </InputGroup>
 
     </div>
@@ -71,6 +71,7 @@ const Login = () => {
   
 </form>
 <div  className='text-center my-5'>
+
 <p><small>Contact us:<a src="" href=''> support@cd-commrece.de</a></small></p>
 
 <p><small className='text-center'>All copyrights@cd-commerce<br/>
