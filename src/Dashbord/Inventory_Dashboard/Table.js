@@ -16,7 +16,7 @@ const RecorderDashboard = () => {
         <th scope="col">Reorder Quantity</th>
         <th scope="col">Reorder Quantity in VPE</th>
         <th scope="col">Total stock range in days</th>
-        <th scope="col">GLD per 100 units</th>
+        <th scope="col">GLD per 100 units</th><button className="btn btn-Darkgrey m-1">Edit</button>
        
       
       </tr>
@@ -32,7 +32,7 @@ const RecorderDashboard = () => {
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
             
 
       </tr>
@@ -47,7 +47,7 @@ const RecorderDashboard = () => {
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
            
 
       </tr>
@@ -60,7 +60,7 @@ const RecorderDashboard = () => {
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
            
 
       </tr>

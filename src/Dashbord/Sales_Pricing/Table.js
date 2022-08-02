@@ -1,9 +1,14 @@
 import React from 'react'
  const Table = () => {
   return (
+
+
     <div> 
+
         <table class="table dashboardtable table-hover bg-Darkgrey auto-resize -10 mt-2">
+
     <thead>
+      
       <tr>
         <th scope="col">#</th>
         <th scope="col">FBA SKU</th>

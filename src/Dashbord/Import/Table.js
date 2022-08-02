@@ -60,7 +60,6 @@ import React from 'react'
       <tr>
 
         <th scope="row">3</th>
-
         <td class="first_name">Raj</td>
             <td class="first_name">+91-9041414538</td>
             <td class="first_name">Sprasad@</td>

@@ -5,7 +5,7 @@ import React from 'react'
         <table class="table dashboardtable table-hover Darkgrey auto-resize -10 mt-2">
     <thead>
       <tr>
-        <th scope="col">#</th>
+        <th scope="col">Srno</th>
         <th scope="col">Basisc SKU</th>
         <th scope="col">Current GLD</th>
         <th scope="col">Total stock Value</th>
@@ -34,7 +34,7 @@ import React from 'react'
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
 
       </tr>
@@ -51,7 +51,7 @@ import React from 'react'
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
 
@@ -70,7 +70,7 @@ import React from 'react'
             <td class="first_name">Active</td>
             <td class="first_name">B/16, Gachnanagar</td>
             <td class="first_name">Indore</td>
-            <td class="first_name">Madhay Pradesh</td>
+            <td class="first_name">Madhay Pradesh</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
 
       </tr>

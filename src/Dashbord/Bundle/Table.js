@@ -57,7 +57,7 @@ import React from 'react'
             <td class="first_name">Sprasad@cd</td>
             <td class="first_name">Raj kumar</td>
             <td class="first_name">Sprasad@c</td>
-            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Raj kumar</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
 
@@ -76,7 +76,7 @@ import React from 'react'
             <td class="first_name">Sprasad@cd</td>
             <td class="first_name">Raj kumar</td>
             <td class="first_name">Sprasad@c</td>
-            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Raj kumar</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
 
@@ -95,7 +95,7 @@ import React from 'react'
             <td class="first_name">Sprasad@cd</td>
             <td class="first_name">Raj kumar</td>
             <td class="first_name">Sprasad@c</td>
-            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Raj kumar</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
       </tr>
 

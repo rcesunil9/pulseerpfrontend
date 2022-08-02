@@ -62,15 +62,16 @@ const StockDashboard = () => {
             <td class="first_name">Sprasad@cd</td>
             <td class="first_name">Raj kumar</td>
             <td class="first_name">Sprasad@c</td>
-            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Raj kumar</td><button className="btn btn-Darkgrey m-1">Edit</button>
           </tr> 
 
 
-          
+        
 
+        
           
           <tr>  
-            <td>011</td>  
+            <td>02</td>  
             <td class="first_name">Raj</td>
             <td class="first_name">+91-9041414538</td>
             <td class="first_name">Sprasad@</td>
@@ -82,7 +83,7 @@ const StockDashboard = () => {
             <td class="first_name">Sprasad@cd</td>
             <td class="first_name">Raj kumar</td>
             <td class="first_name">Sprasad@c</td>
-            <td class="first_name">Raj kumar</td>
+            <td class="first_name">Raj kumar</td><button className="btn btn-Darkgrey m-1">Edit</button>
           </tr>  
 
           <tr>  
@@ -98,9 +99,11 @@ const StockDashboard = () => {
             <td class="first_name">Sprasad@cd</td>
             <td class="first_name">Raj kumar</td>
             <td class="first_name">Sprasad@c</td>
-            <td class="first_name">Raj kumar</td>
+        
+            <td class="first_name">Raj kumar</td><button className="btn btn-Darkgrey m-1">Edit</button>
 
           </tr>  
+
         </tbody>  
      
 
